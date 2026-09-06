@@ -7,6 +7,7 @@ The website is deployed on Amazon EC2 instances and traffic is distributed using
 
 ## Architecture
 Internet → Application Load Balancer → Target Group → EC2 Instances → Website
+![AWS Architecture Diagram](architecture-diagram.png)
 
 ## AWS Services Used
 - Amazon VPC
